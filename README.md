@@ -34,7 +34,8 @@
 
 ## 项目支持与商业
 
-[申请方](http://www.applysquare)和提供数据与教育支持
+-[申请方](http://www.applysquare)和提供数据与教育支持
+
 如果需要留学申请及背景提升服务，请[联系我们](http://www.applysquare)
 
 ## License
